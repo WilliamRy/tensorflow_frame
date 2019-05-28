@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1eb735c4-74e7-4254-a7b4-3a86d7546703" name="todel" url="http:///">
+        <fileTransfer host="10.30.30.112" port="22" rootFolder="/home/renyan/deep_learning/tensorflow-frame" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
